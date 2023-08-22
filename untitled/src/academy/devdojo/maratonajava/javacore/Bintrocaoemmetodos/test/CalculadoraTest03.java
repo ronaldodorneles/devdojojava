@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.javacore.Bintrocaoemmetodos.test;
 
 import academy.devdojo.maratonajava.javacore.Bintrocaoemmetodos.dominio.Calculadora;
 
-public class CalculadoraTeste03 {
+public class CalculadoraTest03 {
     public static void main(String[] args) {
         Calculadora calculadora = new Calculadora();
         //result = double result = calculadora.divideDoisNumeros(20,2);
