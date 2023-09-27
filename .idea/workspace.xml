@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f16a3c5c-18d4-4ee1-8362-17490a710f38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/untitled/src/academy/devdojo/maratonajava/javacore/Eblocosinicializacao/dominio/Anime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/academy/devdojo/maratonajava/javacore/Eblocosinicializacao/test/AnimeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/test/CarroTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.academy.devdojo.maratonajava.javacore.Eblocosinicializacao.test.AnimeTest01">
+  <component name="RunManager" selected="Application.CarroTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="devdojojava" />
@@ -58,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncionarioTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Bintrocaoemmetodos.test.FuncionarioTest01" />
+    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Fmodificadorestatico.test.CarroTest01" />
       <module name="devdojojava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Bintrocaoemmetodos.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Fmodificadorestatico.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PessoaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Bintrocaoemmetodos.test.PessoaTest01" />
+    <configuration name="FuncionarioTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Bintrocaoemmetodos.test.FuncionarioTest01" />
       <module name="devdojojava" />
       <extension name="coverage">
         <pattern>
@@ -111,19 +110,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CarroTest01" />
       <item itemvalue="Application.academy.devdojo.maratonajava.javacore.Eblocosinicializacao.test.AnimeTest01" />
       <item itemvalue="Application.academy.devdojo.maratonajava.javacore.Dconstutores.test.AnimeTest01" />
       <item itemvalue="Application.AnimeTest01" />
       <item itemvalue="Application.FuncionarioTest01" />
-      <item itemvalue="Application.PessoaTest01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarroTest01" />
         <item itemvalue="Application.academy.devdojo.maratonajava.javacore.Eblocosinicializacao.test.AnimeTest01" />
         <item itemvalue="Application.AnimeTest01" />
         <item itemvalue="Application.academy.devdojo.maratonajava.javacore.Dconstutores.test.AnimeTest01" />
         <item itemvalue="Application.FuncionarioTest01" />
-        <item itemvalue="Application.PessoaTest01" />
       </list>
     </recent_temporary>
   </component>
