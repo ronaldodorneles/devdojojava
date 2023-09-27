@@ -31,7 +31,7 @@ Disponível no . [YouTube](https://www.youtube.com/playlist?list=PL62G310vn6nFIs
 - [x] Métodos
 - [x] Modificadores de acesso
 - [x] Sobrecarga de métodos
-- [ ] Blocos de inicialização
+- [x] Blocos de inicialização
 - [ ] Modificador static
 - [ ] Métodos estáticos
 
