@@ -33,5 +33,6 @@ Disponível no . [YouTube](https://www.youtube.com/playlist?list=PL62G310vn6nFIs
 - [x] Sobrecarga de métodos
 - [x] Blocos de inicialização
 - [x] Modificador static
-- [ ] Métodos estáticos
+- [x] Métodos estáticos
+- [x] Bloco de inicialização estático
 
